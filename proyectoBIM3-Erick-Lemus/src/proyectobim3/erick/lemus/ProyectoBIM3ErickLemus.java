@@ -118,7 +118,6 @@ public class ProyectoBIM3ErickLemus {
             System.out.println("Telefono: " + contactos[i].verTelefono());
             System.out.println("Nombre: " + contactos[i].verNombre());
             System.out.println("Domicilio: " + contactos[i].verDomicilio());
-            System.out.println("##################################");
         }
     }
 
